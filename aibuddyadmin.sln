@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aibuddyadmin", "aibuddyadmin\aibuddyadmin.csproj", "{14D2E716-563F-4A7A-A1BA-C450B2F2A699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aibuddydatalayer", "aibuddydatalayer\aibuddydatalayer.csproj", "{97DD0B5D-FA7A-4495-9FD5-007A3E36F15C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D2E716-563F-4A7A-A1BA-C450B2F2A699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D2E716-563F-4A7A-A1BA-C450B2F2A699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D2E716-563F-4A7A-A1BA-C450B2F2A699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D2E716-563F-4A7A-A1BA-C450B2F2A699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97DD0B5D-FA7A-4495-9FD5-007A3E36F15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DD0B5D-FA7A-4495-9FD5-007A3E36F15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DD0B5D-FA7A-4495-9FD5-007A3E36F15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DD0B5D-FA7A-4495-9FD5-007A3E36F15C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {284EC4EC-CB52-403C-95D9-08A0FF7F120C}
+	EndGlobalSection
+EndGlobal
